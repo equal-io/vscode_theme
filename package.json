@@ -1,0 +1,21 @@
+{
+  "name": "equal-io",
+  "displayName": "equal-io",
+  "description": "A theme for =i/o",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.66.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "=i/o",
+        "uiTheme": "vs-dark",
+        "path": "./themes/=io-color-theme.json"
+      }
+    ]
+  }
+}
